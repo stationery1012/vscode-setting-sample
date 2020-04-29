@@ -5,10 +5,8 @@
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": [
     "coenraads.bracket-pair-colorizer",
-    "msjsdiag.debugger-for-chrome",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "octref.vetur"
+    "esbenp.prettier-vscode"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
