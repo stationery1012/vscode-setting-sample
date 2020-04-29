@@ -1,4 +1,5 @@
 {
+  "plugins": ["eslint-plugin-html"],
   "extends": ["eslint:recommended"],
   "env": {
     "browser": true
